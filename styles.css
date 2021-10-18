@@ -1,0 +1,41 @@
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 50px;
+}
+
+.container {
+
+    margin: auto;
+
+}
+.addsi{
+text-align: center;
+}
+.btn{
+    height: 70px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background: black;
+    background-color: grey;
+    margin: auto;
+    /* padding-top: 20px; */
+
+}
+body{
+    margin: 0px auto;
+    padding: 0%;
+    width: 190px;
+    justify-content: space-between;
+}
+.btn:hover{
+    
+    cursor: pointer;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+}
